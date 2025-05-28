@@ -1,5 +1,4 @@
 "use client";
-
 import { MainPageDetails } from "@/containers/MainPageDetails";
 import { useEffect } from "react";
 import { useSelector } from "react-redux";
